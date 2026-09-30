@@ -1,0 +1,16 @@
+# Secrets and environment files
+.env
+*.env
+
+# Database
+notes.db
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Other
+.DS_Store
